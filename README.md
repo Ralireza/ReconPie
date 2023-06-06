@@ -1,6 +1,5 @@
 # ReconPie
 simple reconnaissance tool project for learning python and basic concepts of programming/networking step by step.
-
 # Features
 - Sitemap Generation
 - Subdomain Enumeration
