@@ -1,0 +1,6 @@
+dnspython
+requests
+beautifulsoup4
+python-nmap
+python-whois
+DateTime
