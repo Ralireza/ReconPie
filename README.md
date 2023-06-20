@@ -22,8 +22,12 @@ simple reconnaissance tool project for learning python and basic concepts of pro
 
 
 # Hall Of Fame
-1. Hadi~Killer link : https://github.com/HadiKiler/RECOUN <br>
-4. Hamed Fakoori link : https://github.com/Hamed-244/Recon 
+
+1. Hadi~Killer  : https://github.com/HadiKiler/RECOUN 
+2. Mahdi We1rd  : https://github.com/MahdiWe1rd/reconisance 
+3. HosseinMohammady  : https://github.com/HosseinMohammady/Reconnaissance-tool
+4. Hamed Fakoori  : https://github.com/Hamed-244/Recon 
+
 # Steps
 
 ## Sitemap Generation
